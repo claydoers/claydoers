@@ -3,7 +3,7 @@
 ______________
 
 **I am a professional data engineer that has a strong interest in <br>
-learning from data and making it usable to tell a story**
+learning from data and making it usable to tell a story!**
 
 - :test_tube: I like data science, data engineering, security, & ETL/ELT.
 - 🌱 I’m currently learning R & Python.
