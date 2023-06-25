@@ -12,7 +12,7 @@ learning from data and making it usable to tell a story!**
 
 _______________
 
-📫 **Connect with me:**
+**Let's connect!**
 
 <!---
 claydoers/claydoers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
