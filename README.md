@@ -2,11 +2,11 @@
 
 ______________
 
-**I am a professional data engineer that has a strong passion in <br>
-learning from data and making it usable to tell a story!**
+**I am a professional data engineer that has a strong passion for <br>
+all things data related!**
 
 - :test_tube: I like data engineering, data science, security, & ETL/ELT.
-- 🌱 I’m currently learning R & Python.
+- 🌱 I’m currently learning Python & R.
 - 📗 2022 goals: Build my portfolio.
 - ⚡ Fun Fact: I love sound design & creating music.
 
