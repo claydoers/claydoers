@@ -7,7 +7,7 @@ all things data related!**
 
 - :test_tube: I like data engineering, data science, security, & ETL/ELT.
 - 🌱 I’m currently learning Python & R.
-- 📗 2022 goals: Build my portfolio.
+- 📗 2023 goals: Build my portfolio with personal projects.
 - ⚡ Fun Fact: I love sound design & creating music.
 
 _______________
