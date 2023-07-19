@@ -13,6 +13,7 @@ all things data related!**
 _______________
 
 **Let's connect!**
+- 📬 You can reach me: <a href="https://www.linkedin.com/in/clay-doerschlag-674540124/">link text</a>
 
 <!---
 claydoers/claydoers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
