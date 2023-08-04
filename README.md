@@ -8,7 +8,7 @@ all things data related!**
 - :test_tube: I like data engineering, data science, security, & data visualization.
 - 🌱 I’m currently learning Python & R.
 - 📗 2023 goals: Build my portfolio with new projects.
-- ⚡ Fun fact about me: I love sound design & creating music.
+- 💥Fun fact about me: I love sound design & creating music. 
 - 💼 Some of my projects: <a href="https://github.com/claydoers/Portfolio">Portfolio</a>
 
 _______________
