@@ -3,7 +3,7 @@
 ______________
 
 **I am a professional data engineer that has a strong passion for <br>
-all things data related!**
+all things data!**
 
 - :test_tube: I have a passion for data and all things data related.
 - 🌱 I’m currently learning Python & R.
