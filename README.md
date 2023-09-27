@@ -7,7 +7,7 @@ all things data!**
 
 - :test_tube: I have a passion for data and all things data related.
 - 🌱 I’m currently learning Python & R.
-- 📗 2023 goals: Add new projects to my portfolio.
+- 📗 2023 goals: Add new exciting projects to my portfolio & obtain 1-2 new certifications.
 - 💥 Fun fact about me: I love sound design & creating music. 
 - 💼 Some of my projects: <a href="https://github.com/claydoers/Portfolio">Portfolio</a>
 
