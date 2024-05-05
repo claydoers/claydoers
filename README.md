@@ -7,7 +7,7 @@ all things data!**
 
 - :test_tube: I have a passion for data and all things data related.
 - 🌱 I’m currently learning the Azure tech stack.
-- 📗 2024 goals: Add new exciting projects to my portfolio & obtain 1-2 new certifications.
+- 📗 2024 goals: Prepare for the DP-203 Exam & Obtain the Azure Data Engineer Certification.
 - 💥 Fun fact about me: I love sound design & creating music. 
 - 💼 Some of my projects: <a href="https://github.com/claydoers/Portfolio">Portfolio</a>
 
