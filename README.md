@@ -5,7 +5,6 @@ ______________
 **I am a professional software engineer that has a strong passion for <br>
 all things data!**
 
-- 🌱 I’m currently learning the Azure tech stack.
 - 📗 2024 goals: Prepare for and obtain the SAP-C02 certification.
 - 💥 Fun fact about me: I love sound design & creating music. 
 - 💼 Some of my data related projects: <a href="https://github.com/claydoers/Portfolio">Portfolio</a>
