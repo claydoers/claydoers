@@ -2,7 +2,7 @@
 
 ______________
 
-**I am a professional software engineer that has a strong passion for <br>
+**Professional software engineer that has a strong passion for <br>
 all things data!**
 
 - 📗 2024 goals: Prepare for and obtain the SAP-C02 certification.
