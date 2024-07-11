@@ -5,8 +5,6 @@ ______________
 **Professional software engineer that has a strong passion for <br>
 all things data!**
 
-- 📗 2024 goals: Prepare for and obtain the AWS SAP-C02 certification.
-- 💥 Fun fact about me: I love sound design & creating music. 
 - 💼 Some of my data related projects: <a href="https://github.com/claydoers/Portfolio">Portfolio</a>
 
 _______________
