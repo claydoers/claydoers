@@ -5,7 +5,7 @@ ______________
 **Professional software engineer that has a strong passion for <br>
 all things data!**
 
-- 🎮 Here is a simple idle game that I started to build <a href="https://github.com/claydoers/RentalEmpire">Rental Empire</a>
+- 🎮 Here is a simple idle game that i've been building <a href="https://github.com/claydoers/RentalEmpire">Rental Empire</a>
 - 💼 Some of my data related projects: <a href="https://github.com/claydoers/Portfolio">Portfolio</a>
 
 _______________
