@@ -1,5 +1,10 @@
-**Professional software engineer that has a strong passion for <br>
-all things data!**
+<h1 align="center">Hi 👋, I'm Clay</h1>
+<h3 align="center">Professional software engineer that has a strong passion for all things data!</h3>
 
-- 🎮 Here is a simple idle game that I started to build to learn TypeScript: <a href="https://github.com/claydoers/RentalEmpire">Rental Empire</a>
-- 💼 Some of my small data related projects: <a href="https://github.com/claydoers/Portfolio">Portfolio</a>
+- 🔭 I’m currently working on [Rental Empire (Idle Game)](https://github.com/claydoers/RentalEmpire)
+
+- 🌱 I’m currently learning **Rust**
+
+- 👨‍💻 My data related projects are available at [https://github.com/claydoers/Portfolio](https://github.com/claydoers/Portfolio)
+
+- 💬 Ask me about **sql & data visualization**
