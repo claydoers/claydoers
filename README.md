@@ -6,5 +6,3 @@
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 My data related projects are available at [https://github.com/claydoers/Portfolio](https://github.com/claydoers/Portfolio)
-
-- 💬 Ask me about **sql & data visualization**
